@@ -12,8 +12,8 @@ I had an issue with getting my seeds to work with Heroku, but was able to fix th
 
 # Installation/ How to use this app
 This app is deployed on Heroku and does not require installation. 
-If you would like to install it, you can clone the repo, open a terminal and type: ```npm i``
-seed the database with ```npm run seed``` or   ```node seeders/seed.js``` Then type ```node .``` to use it on localhost:3000.
+If you would like to install it, you can clone the repo, open a terminal and type: ```npm i```
+seed the database with ``npm run seed`` or   ``node seeders/seed.js`` Then type ``node .`` to use it on localhost:3000.
 
 # Credits
 
