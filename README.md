@@ -3,6 +3,8 @@ This app was created to track exercise goals
 
 Link to deployed app on Heroku: https://fitnesstrack3r.herokuapp.com/?id=61b75e41dd556a00169f5eb2
 
+<img width="1195" alt="Fitness Tracker" src="https://user-images.githubusercontent.com/46511972/145843695-aa9a43f3-a7f9-4ca9-9bf7-1273b3a6c88f.png">
+
 # Description
 This application creates new workout entries and tracks each one on a graph dashboard.
 In this app we have utilized: MongoDB, Node, and Javascript.
